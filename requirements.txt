@@ -2,3 +2,5 @@ os
 numpy
 astropy
 matplotlib
+gammapy
+scipy
