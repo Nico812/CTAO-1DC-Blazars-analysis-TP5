@@ -1,6 +1,7 @@
 os
 numpy
 astropy
+scipy
 matplotlib
 gammapy
 scipy
