@@ -1,7 +1,6 @@
-os
 numpy
 astropy
-scipy
 matplotlib
 gammapy
 scipy
+cta-data
