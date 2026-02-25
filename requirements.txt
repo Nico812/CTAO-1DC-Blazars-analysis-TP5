@@ -4,4 +4,3 @@ matplotlib
 gammapy
 scipy
 ctadata
-davix
