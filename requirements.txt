@@ -3,4 +3,4 @@ astropy
 matplotlib
 gammapy
 scipy
-cta-data
+ctadata
