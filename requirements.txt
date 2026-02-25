@@ -4,3 +4,5 @@ matplotlib
 gammapy
 scipy
 ctadata
+oidc-agent
+davix
