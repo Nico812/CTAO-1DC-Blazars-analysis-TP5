@@ -1,0 +1,11 @@
+# Note: name can be changed
+name: "base"
+channels:
+	# important: do not use 'defaults', but always include 'nodedefaults'
+  - conda-forge
+  - nodefaults
+dependencies:
+  - davix
+  - oidc-agent
+# Note: prefix can be changed
+prefix: "/opt/conda"
