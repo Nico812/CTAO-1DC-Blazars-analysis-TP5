@@ -1,0 +1,4 @@
+To run the analysis scripts in renkulab first one has to:
+
+1. Autenticate using cta-data tool in the terminal: run cta-data start-agent.
+2. Run download_data.ipynb to download the required data from CSCS and Zenodo.
