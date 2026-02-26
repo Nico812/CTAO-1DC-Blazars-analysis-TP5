@@ -1,0 +1,17 @@
+name: "base"
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.9
+  - conda-forge::davix
+  - conda-forge::oidc-agent
+  - pip
+  - pip:
+    - numpy
+    - astropy
+    - matplotlib
+    - gammapy
+    - scipy
+    - ctadata
+prefix: "/opt/conda"
