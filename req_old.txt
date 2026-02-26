@@ -1,6 +1,0 @@
-numpy
-astropy
-matplotlib
-gammapy
-scipy
-ctadata
